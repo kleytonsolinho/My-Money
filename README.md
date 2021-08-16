@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/logo.svg" alt="My Money" width="250px" height="250px">
+  <img src=".github/logo2.png" alt="My Money" width="250px" height="250px">
 </h1>
 
 <h3 align="center">
@@ -35,7 +35,7 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<img alt="Layout" src=".github/logo.svg" />
+<img alt="Layout" src=".github/logo2.png" />
 
 ## 📋 Projeto
 
