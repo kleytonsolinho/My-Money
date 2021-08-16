@@ -7,29 +7,25 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kleytonsolinho/thebehero">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kleytonsolinho/My-money">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kleytonsolinho/thebehero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kleytonsolinho/My-money">
   
-  <a href="https://www.codacy.com/manual/kleytonsolinho/thebehero?    utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kleytonsolinho/thebehero&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/kleytonsolinho/My-money?    utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kleytonsolinho/thebehero&amp;utm_campaign=Badge_Grade">
   <img src="https://api.codacy.com/project/badge/Grade/af7ef38b79414492844663ebbbf4e21b"/>
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kleytonsolinho/thebehero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kleytonsolinho/My-money">
   
   <a href="https://github.com/kleytonsolinho/thebehero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kleytonsolinho/thebehero">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kleytonsolinho/My-money">
   </a>
   
   <a href="https://github.com/kleytonsolinho/thebehero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/kleytonsolinho/thebehero">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/kleytonsolinho/My-money">
   </a>
   
-  <div align="center">
-    <img src=".github/tela.gif" alt="Tela - My Money">
-  </div>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/kleytonsolinho/thebehero">
+  <img alt="GitHub" src="https://img.shields.io/github/license/kleytonsolinho/My-money">
 </p>
 
 <p align="center">
@@ -38,6 +34,10 @@
   <a href="#-instalação-execução-e-desenvolvimento">Instalação, execução e desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
+
+<div align="center">
+  <img src=".github/tela.gif" alt="Tela - My Money">
+ </div>
 
 <img alt="Layout" src=".github/logo2.png" />
 
@@ -102,6 +102,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/kleytonsolinho/thebehero/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/kleytonsolinho/My-money/blob/master/LICENSE) para mais detalhes.
 
 ---
