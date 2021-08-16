@@ -25,6 +25,10 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/kleytonsolinho/thebehero">
   </a>
   
+  <div align="center">
+    <img src=".github/tela.gif" alt="Tela - My Money">
+  </div>
+  
   <img alt="GitHub" src="https://img.shields.io/github/license/kleytonsolinho/thebehero">
 </p>
 
