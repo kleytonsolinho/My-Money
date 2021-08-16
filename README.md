@@ -36,71 +36,41 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Tobehero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fengividal%2Ftobehero%2Fmaster%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
-<img alt="Layout" src=".github/tobehero.png" />
+<img alt="Layout" src=".github/logo.svg" />
 
 ## 📋 Projeto
 
-Aplicação completa utilizando a Stack do Javascript. O objetivo da aplicação é permitir que ONGs possam cadastrar casos a serem visualizados pelo possíveis voluntários que queiram colaborar. 
+Aplicação utilizando a Stack do Javascript. O objetivo da aplicação é permitir que usurários possam cadastrar dados sobre sua vida financeira
+afim de gerar um acompanhamento e controle financeiro.
 
-O Frontend Web permite o cadastro de novas ONGs e novos Casos. Os casos possuem detalhes para auxiliar quem tiver interesse em ajudar e entrar em contato com as ONGs.
-
-O aplicativo é voltado para o usuário final, possível voluntário, que poderá visualizar todos os casos disponíveis e entrar em contato com a organização que criou o caso via e-mail ou whatsapp.  
+O Frontend Web permite o cadastro de novas compras ou vendas com os nomes, valores, se entrada ou saída de caixa e categoria do movimentação financeira.
 
 ## 🔝 Tecnologias
 
 Esta aplicação foi desenolvida com as tecnologias abaixo:
 
-- [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [Celebrate](https://github.com/arb/celebrate)
-- [SQLite](https://www.sqlite.org/)
-- [Jest](https://jestjs.io/)
-- [SuperTest](https://github.com/visionmedia/supertest)
-- [Nodemon](https://nodemon.io/)
-- [React Navigation](https://reactnavigation.org/)
-- [React Icons](https://react-icons.netlify.com/#/)
+- [React DOM](https://reactjs.org/)
+- [React MODAL](https://reactjs.org/)
+- [React Scripts](https://reactjs.org/)
 - [Axios](https://github.com/axios/axios)
+- [MirageJS](https://reactjs.org/)
+- [Styled Components](https://reactjs.org/)
+- [Polished](https://reactjs.org/)
 
 ## 💻 Instalação e execução
 
-Faça um clone do repositório através do [GitHub Desktop](https://desktop.github.com/) ou linha de comando `git clone https://github.com/kleytonsolinho/thebehero.git`.
+Faça um clone do repositório através do [GitHub Desktop](https://desktop.github.com/) ou linha de comando `git clone https://github.com/kleytonsolinho/My-money.git`.
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org/en/)
-- [SQLite](https://www.sqlite.org/)
 - [Yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/)
-- [Expo](https://expo.io/)
-
-### Backend
-
-- A partir da raiz do projeto, entre na pasta rodando `cd backend`;
-- Rode `yarn` para instalar sua dependências;
-- Importe o arquivo `Insomnia.json` no Insomnia ou clique no botão [Run in Insomnia](#insomniaButton);
 
 ### Web
-
-_ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 - A partir da raiz do projeto, entre na pasta do frontend web rodando `cd web`;
 - Rode `yarn` para instalar as dependências;
 - Rode `yarn start` para iniciar o client web;
-
-### Mobile
-
-_ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
-
-- A partir da raiz do projeto, entre na pasta do frontend web rodando `cd mobile`;
-- Rode `yarn` para instalar as dependências;
-- Rode `yarn start` ou `expo start` para iniciar o bundle com o expo;
-- Caso vá utilizar seu smartphone, com o app do expo escaneia o QRCODE;
 
 ## ❤️ Como contribuir
 
@@ -113,7 +83,7 @@ _ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd tobehero
+$ git clone url-do-seu-fork && cd My-money
 
 # Crie uma branch com sua feature
 $ git checkout -b minha-feature
@@ -132,8 +102,3 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/kleytonsolinho/thebehero/blob/master/LICENSE) para mais detalhes.
 
 ---
-
-## 🙏 Agradecimentos 
-
-- CTO Rocketseat [Diego Fernandes](https://github.com/diego3g)
-- Rocketseat pela semana de Aprendizagem [Rocketseat](https://github.com/rocketseat)
