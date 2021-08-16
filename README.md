@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src=".github/logo.svg" alt="My Money" width="250px" height="250px">
-  My Money
 </h1>
 
 <h3 align="center">
@@ -51,12 +50,12 @@ Esta aplicação foi desenolvida com as tecnologias abaixo:
 
 - [ReactJS](https://reactjs.org/)
 - [React DOM](https://reactjs.org/)
-- [React MODAL](https://reactjs.org/)
+- [React MODAL](https://github.com/reactjs/react-modal/)
 - [React Scripts](https://reactjs.org/)
 - [Axios](https://github.com/axios/axios)
-- [MirageJS](https://reactjs.org/)
-- [Styled Components](https://reactjs.org/)
-- [Polished](https://reactjs.org/)
+- [MirageJS](https://miragejs.com/)
+- [Styled Components](https://styled-components.com/)
+- [Polished](https://polished.js.org/)
 
 ## 💻 Instalação e execução
 
