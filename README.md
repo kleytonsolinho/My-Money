@@ -53,9 +53,7 @@ O Frontend Web permite o cadastro de novas compras ou vendas com os nomes, valor
 Esta aplicação foi desenolvida com as tecnologias abaixo:
 
 - [ReactJS](https://reactjs.org/)
-- [React DOM](https://reactjs.org/)
 - [React MODAL](https://github.com/reactjs/react-modal/)
-- [React Scripts](https://reactjs.org/)
 - [Axios](https://github.com/axios/axios)
 - [MirageJS](https://miragejs.com/)
 - [Styled Components](https://styled-components.com/)
